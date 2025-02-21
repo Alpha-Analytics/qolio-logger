@@ -1,6 +1,6 @@
 <?php
 
-namespace Qolio\Log;
+namespace Qolio\Helper;
 
 use DateTime;
 use DateTimeImmutable;
